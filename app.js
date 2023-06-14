@@ -48,5 +48,5 @@ app.use('/admin',adminRoutes)
    
  
 // port setting
-app.listen(4000,()=>
- console.log('Server listening to 4000 '))  
+app.listen(6000,()=>
+ console.log('Server listening to 6000 '))  
